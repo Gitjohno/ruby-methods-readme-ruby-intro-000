@@ -1,3 +1,10 @@
-def greeting
-
-end
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
+puts phrase
